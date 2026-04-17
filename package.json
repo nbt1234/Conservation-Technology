@@ -1,0 +1,13 @@
+{
+  "name": "conservation-technology",
+  "version": "1.0.0",
+  "description": "Conservation technology platform for environmental monitoring",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "rebuild": "npm rebuild",
+    "test": "node --test src/**/*.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
